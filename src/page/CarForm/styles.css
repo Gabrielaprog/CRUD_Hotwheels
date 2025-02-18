@@ -1,0 +1,32 @@
+
+  
+
+.formStyle {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin-bottom: 10px;
+    width: 100%
+}
+
+.form {
+    width: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: white;
+    border-radius: 30px;
+   
+    
+    
+    
+}
+
+.container {
+    background-image: url(./fundo\ form.jpg);
+}

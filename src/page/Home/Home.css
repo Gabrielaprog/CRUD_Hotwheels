@@ -1,0 +1,35 @@
+.titulo {
+    color: rgb(247, 241, 241);
+    margin-top: 0%;
+    font-family: "Anton", sans-serif;
+    padding: 10%;
+
+   
+    
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+}
+
+.paragrafo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+
+
+.home {
+    background-image: linear-gradient(rgba(61, 58, 58, 0.8),rgba(29,29,29,0.8)), url(./fundo\ hotwheels.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-color: linear;
+    background-repeat: no-repeat;
+    background-position: 60%;
+    width: 100vw;
+    height: 100vh;
+    
+    
+    
+}
